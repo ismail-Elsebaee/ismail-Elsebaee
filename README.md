@@ -1,5 +1,7 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Ismail<br><br>A passionate **Junior Software Developer** focused on building efficient and clean code. I specialize in **Frontend Development** and have a solid foundation in **Python** for scripting and automation.<br><br>### 🚀 Technical Skills:<br>* **Languages:** Python, JavaScript (ES6+).<br>* **Frontend:** HTML5, CSS3, Responsive Design.<br>* **Tools & Environment:** Linux (Pop!_OS / Arch), VS Code, Git & GitHub.<br>* **Systems:** Virtualization (VirtualBox), Technical Troubleshooting.<br><br>### 🎯 Current Focus:<br>* 🔭 Currently looking for a **Junior Frontend Developer** role or an Internship.<br>* 🐍 Expanding my Python knowledge into backend logic.<br>* 🐧 Customizing my development environment on **Arch Linux** to maximize productivity.<br><br>### 📫 Let's Connect:<br>* 💬 Ask me about: Linux distributions, Python basics, or Frontend tips.<br>* ⚡ Fun fact: I believe that hardware compatibility is the first step to a perfect dev environment.
+I'm a Front-End Developer with 1–2 years of experience building clean, functional web interfaces. I work with HTML, CSS, JavaScript, and Python — focusing on writing solid logic and turning ideas into things that actually run.
+I enjoy the problem-solving side of development more than anything. Whether it's debugging a tricky function or building a tool from scratch, that's where I feel most in my element.
+Right now I'm actively looking for new opportunities — freelance, part-time, or full-time. If you're working on something interesting and need a developer who gets things done, feel free to reach out.
 
 
 # 💻 Tech Stack:
